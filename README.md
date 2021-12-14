@@ -1,3 +1,5 @@
 # shiziyu-upload
 
-![image](https://user-images.githubusercontent.com/15842234/145923111-5b8c7342-3de3-46b8-b9e4-04c15ad2484e.png)
+因 数量过多，仅仅让你传入  <?php echo('whoami');?>  此代码上传，  仅供研究参考！
+
+![image](https://user-images.githubusercontent.com/15842234/145923267-08bf8810-2e1a-45de-bf34-ac67d31b3feb.png)
