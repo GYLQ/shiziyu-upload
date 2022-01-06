@@ -1,6 +1,6 @@
 # shiziyu-upload
 
-因**数量**过多此代码上传测试！  仅供研究参考！
+！  仅供研究参考！
 
 使用示意图批量检测是否存在漏洞：shiziyu.exe -f url.txt
 
